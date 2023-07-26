@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.box{
+    margin: 10px;
+    padding: 10px;
+    border: 2px solid black;
+    width: 450px;
+    height: 450px;
+    position: relative;
+}
+
+span{
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+}
